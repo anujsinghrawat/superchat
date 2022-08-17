@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# description
+it is a chat web app with react-js in the frontend and firebase at the backend.
+it uses a google auth for signup and we can also ban people from using chat in case they are not abiding by the rule
+
 ## Available Scripts
 
 In the project directory, you can run:
